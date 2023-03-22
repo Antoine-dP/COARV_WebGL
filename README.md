@@ -1,7 +1,7 @@
 # Projet COARV : WebGL
 
-Lauvernier & de Percin
+Lauvernier & de Percin <br />
 
-Suivi du tutoriel https://threejs.org/manual/
+Suivi du tutoriel https://threejs.org/manual/ <br />
 
-Utilisation de Primitives & Render Target
+Utilisation de Primitives & Render Target <br />
